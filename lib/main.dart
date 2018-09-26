@@ -344,8 +344,8 @@ class AnimatedCellWidget extends AnimatedWidget {
       );
     }
   }
-}
 
+}
 class CellWidget extends StatefulWidget {
   final BoardCell cell;
 
